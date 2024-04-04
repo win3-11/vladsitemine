@@ -54,6 +54,6 @@ p {
 	cursor: pointer;
 	float: left;
 }
-.a-group .a:hover {
-	background-color: black;
+.a-group {
+	display: flex;
 }

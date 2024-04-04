@@ -44,13 +44,12 @@ p {
 	text-align: center;
 }
 .a-group .a {
-  width:319px;
+  width:640px;
   background-color: rgba(0,0,0,0.5);
   border: 1px black;
   color: white;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
   cursor: pointer;
   float: left;

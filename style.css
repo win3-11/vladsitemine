@@ -57,3 +57,6 @@ p {
 .a-group {
 	display: flex;
 }
+.a-group .a:hover {
+  background-color: black;
+}
